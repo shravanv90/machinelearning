@@ -1,2 +1,2 @@
 # Machine learning
-Self taken machine learning projects 
+Self done machine learning projects and assignments 
