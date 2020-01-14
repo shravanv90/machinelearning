@@ -1,1 +1,1 @@
-Maultivariate regression analysis and prediction
+Multivariate regression analysis and prediction
