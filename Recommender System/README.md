@@ -1,3 +1,3 @@
 # Recommender System
 
-Recommender systems for Movie lens dataset using item based collaborative filtering 
+Recommender systems using Item-based collaborative filtering 
