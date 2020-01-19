@@ -10,3 +10,4 @@ Topics:
 4. Support Vector Classifier (SVC)
 5. Naive Bayes
 6. K- Means clustering
+7. KNN classification
