@@ -1,2 +1,2 @@
-# Kaggle Titanic
-Titanic survival prediction
+# Kaggle Projects
+Kaggle project notebooks
