@@ -11,3 +11,7 @@ Topics:
 5. Naive Bayes
 6. K- Means clustering
 7. KNN classification
+8. Decision tree 
+9. Random Forest
+10. Stochastic Grdient descent
+11. Deep Learning
