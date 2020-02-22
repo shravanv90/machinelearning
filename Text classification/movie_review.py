@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 21 17:27:37 2020
-
-@author: Asus
-"""
-
 import tarfile
 
 tarfile.open("D:\\Machine Learning\\Data sets\\Movie review\\movie_review.tar.gz", "r:gz").extractall()
